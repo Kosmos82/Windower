@@ -1,2 +1,0 @@
-# Windower
- Kosmos_Windower
