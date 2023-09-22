@@ -1,0 +1,34 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <alignBottom>false</alignBottom>
+        <buffs>
+            <customOrder>true</customOrder>
+            <filterMode>blacklist</filterMode>
+            <filters />
+        </buffs>
+        <hideSolo>false</hideSolo>
+        <itemSpacing>0</itemSpacing>
+        <layout>auto</layout>
+        <posX>1700</posX>
+        <posY>400</posY>
+        <rangeIndicator>0</rangeIndicator>
+        <rangeIndicatorFar>0</rangeIndicatorFar>
+    </global>
+    <anigav>
+        <posX>200</posX>
+        <posY>603</posY>
+    </anigav>
+    <odysseuss>
+        <posX>227</posX>
+        <posY>658</posY>
+    </odysseuss>
+    <trolond>
+        <posX>340</posX>
+        <posY>435</posY>
+    </trolond>
+    <xirxex>
+        <posX>873</posX>
+        <posY>648</posY>
+    </xirxex>
+</settings>
