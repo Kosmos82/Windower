@@ -68,14 +68,27 @@
         <display>
             <pos>
                 <x>503</x>
+                <y>88</y>
             </pos>
         </display>
         <visible>true</visible>
     </freyaru>
     <freythra>
+        <display>
+            <pos>
+                <x>528</x>
+                <y>88</y>
+            </pos>
+        </display>
         <visible>true</visible>
     </freythra>
     <freyvaan>
+        <display>
+            <pos>
+                <x>528</x>
+                <y>88</y>
+            </pos>
+        </display>
         <visible>true</visible>
     </freyvaan>
 </settings>

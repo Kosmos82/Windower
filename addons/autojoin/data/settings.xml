@@ -7,9 +7,9 @@
         <whitelist />
     </global>
     <freythra>
-        <whitelist>Freyvaan,Freyaru,Xirxex,Odysseuss,Anigav</whitelist>
+        <whitelist>Freyvaan,Anigav,Odysseuss,Xirxex,Freyaru</whitelist>
     </freythra>
     <freyvaan>
-        <whitelist>Odysseuss</whitelist>
+        <whitelist>Odysseuss,Freyaru</whitelist>
     </freyvaan>
 </settings>
